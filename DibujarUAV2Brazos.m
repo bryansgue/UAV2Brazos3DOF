@@ -35,6 +35,7 @@ figure(1)
   cameratoolbar
   title ("Resultados Experimentales")
 %%
+
 tic
 DimensionesManipulador(0,l1_1,l2_1,l3_1-0.2,1); 
 Hexacoptero(0.05,[1 0 0]);
